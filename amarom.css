@@ -204,13 +204,4 @@
   .foot-btm ul a:hover{
     text-decoration:underline;
   }
-  .foot-last{
-   
-    display: inline;
-   
-  }
-  .foot-last select{
-    color:grey;
-    background-color:#243763 ;
-  }
-  
+ 
